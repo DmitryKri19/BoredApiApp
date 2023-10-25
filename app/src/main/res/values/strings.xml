@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HSE</string>
+    <string name="get_an_idea">Get an idea</string>
+    <string name="your_activity_will_appear_here">Your activity will appear here</string>
+    <string name="guide_link_if_available">Guide link (if available):</string>
+    <string name="link">link</string>
+    <string name="antiboring">AntiBoring</string>
 </resources>
